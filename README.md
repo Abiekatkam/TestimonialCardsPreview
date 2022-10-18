@@ -2,6 +2,10 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
+## Preview This Site
+
+[Click here](https://abiekatkam.github.io/TestimonialCardsPreview/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
